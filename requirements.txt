@@ -1,4 +1,4 @@
-﻿sounddevice
+sounddevice
 google-genai
 google-generativeai
 pillow
